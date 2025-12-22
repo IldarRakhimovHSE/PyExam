@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Gym",
+    "priority": "low",
+    "isDone": false,
+    "id": 1
+  },
+  {
+    "title": "Buy a laptop",
+    "priority": "high",
+    "isDone": true,
+    "id": 2
+  },
+  {
+    "title": "Buy a milk",
+    "priority": "medium",
+    "isDone": false,
+    "id": 3
+  },
+]
